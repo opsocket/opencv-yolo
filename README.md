@@ -1,5 +1,7 @@
 ## Real-time Object Detection with OpenCV and YOLOv3
 
+![Banana](banana.png)
+
 Read more at https://docs.opencv.org and https://pjreddie.com/darknet/yolo/
 
 #### Prerequisites
