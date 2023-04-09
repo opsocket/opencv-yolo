@@ -4,8 +4,10 @@
 
 Read more at https://docs.opencv.org and https://pjreddie.com/darknet/yolo
 
-## Start capture
+## Getting started
 
-1. `python -m venv env`
-2. `pip install -r requirements.txt`
-3. `python3 main.py`
+```shell
+python -m venv env && . activate
+pip install -r requirements.txt
+python3 main.py
+```
